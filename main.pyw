@@ -193,7 +193,7 @@ btn_genImg = Button(window, text="生成照片", font=("微软雅黑", 19), comm
 lbl_about = Label(window, text="技术支持: 百度Paddle提供深度学习框架与模型\n" +
                                "   开源地址: https://github.com/PaddlePaddle/Paddle\n" +
                                "本项目已开源至GitHub\n" +
-                               "   开源地址: https://github.com/0x00A0/FaceAge"
+                               "   开源地址: https://github.com/0x00A0/FaceAge",
                   font=("微软雅黑", 9),
                   foreground="#45AA48"
                   )
